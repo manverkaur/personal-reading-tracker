@@ -1,5 +1,4 @@
-# book-management-system-java
-A Java application for managing a collection of books using object-oriented programming principles.
+
 # My Personal Project is Personal Reading Tracker 
 
 ## A Java Applicattion for Managing Reading 
