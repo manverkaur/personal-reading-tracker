@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "title": "then there were none",
+            "author": "Collen",
+            "status": "To Read",
+            "genre": "mystery"
+        },
+        {
+            "title": "famous five",
+            "author": "sarah",
+            "status": "Finished",
+            "genre": "fiction"
+        }
+    ]
+}
